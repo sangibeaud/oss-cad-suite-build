@@ -18,6 +18,7 @@ Target(
         'nextpnr-nexus',
         'nextpnr-himbaechel',
         'nextpnr-himbaechel-gowin',
+        'nextpnr-xilinx',
         'icestorm',
         'prjtrellis',
         'prjoxide',
