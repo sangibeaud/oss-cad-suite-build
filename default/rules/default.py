@@ -22,6 +22,7 @@ Target(
         'icestorm',
         'prjtrellis',
         'prjoxide',
+        'prjxray',
         'apicula',
         'openfpgaloader',
         'aiger',
